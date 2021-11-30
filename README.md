@@ -61,3 +61,9 @@ Bearchat is made up of 5 distinct parts:
 You will be implementing most of the `auth-service`, `posts`, `db-server`, and `profiles` services as part of the project. We have provided an implementation of the `friends` service, a frontend, and the schema for each of the databases backing each of the microservices so you don't have to worry about it. You are, however, more than welcome to modify the project as much as you want to add more features or improve existing ones!
 
 Each microservice is contained in its own folder and comes with its own `README.md` that explains what parts of it still need to be implemented as well as more details about how each microservice is intended to function. In these folders, we have also provided full suites of tests that make sure your implementation is functioning. You are encouraged to read the tests to understand how they work and maybe even provide your own tests if you see some part that is lacking! The goal is to get all the tests in each service passing.
+
+# Credits
+
+This repository is a modified version of the original Bearchat created by the Cloud Computing and SaaS Decal at UC Berkeley. To view more information about the Decal, visit their [website](https://calcloud.org)! You can also view the original starter code for this project [here](https://github.com/BearCloud/fa20-project-starter)! 
+
+This code was made for the [DevOps At Berkeley](https://dab.berkeley.edu/) club. Visit our website to learn more about what we do!
